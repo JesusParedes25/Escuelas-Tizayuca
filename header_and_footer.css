@@ -1,0 +1,58 @@
+header a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+header a:hover {
+    transform: rotate(10deg);
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.3s ease;
+}
+
+header a:hover {
+    border-bottom-color: black;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+header a:hover {
+    background-color: black;
+}
+
+footer {
+    background-color: #3c5ce4;
+    color: white;
+    padding: 20px;
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    padding: 20px
+}
+
+footer a:hover {
+    color: black;
+}
+
+footer nav {
+    display: inline-block;
+}
