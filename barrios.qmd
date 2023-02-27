@@ -1,0 +1,40 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.24.1-Tisler">
+  <identifier>c05_AB_069_Identificación_y_</identifier>
+  <parentidentifier></parentidentifier>
+  <language>SPA</language>
+  <type>dataset</type>
+  <title>c05_AB_069_Identificación_y_</title>
+  <abstract>Mapa delos barrios y su tipo siendo en total 43 barrios, de los cuales 21 son urbanos (rojo), 15 son suburbanos (amarillo), y 7 son rurales (azul). 
+
+Delimitación de barrios para el municipio de Tizayuca, siendo urbanos, rurales y suburbanos</abstract>
+  <keywords vocabulary="Buscar claves">
+    <keyword>Delimitación</keyword>
+    <keyword>barrios</keyword>
+    <keyword>barrios urbanos</keyword>
+    <keyword>barrios suburbanos</keyword>
+    <keyword>barrios rurales</keyword>
+  </keywords>
+  <links/>
+  <fees></fees>
+  <constraints type="Limitaciones de uso">La información generada en este mapa es propiedad del gobierno municipal de Tizayuca, Hidalgo. Elaborado por la empresa INABISA A.C., su uso está condicionado a las leyes de propiedad intelectual a favor del gobierno municipal, una vez se haya publicado esta información se debe dar referencia a la Actualización del PDUyOT del Municipio de Tizayuca. Hidalgo, del año 2020</constraints>
+  <rights>INABISA A.C&#xd;
+</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt>GEOGCRS["Mexico ITRF2008",DATUM["Mexico ITRF2008",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["Mexico - onshore and offshore."],BBOX[12.1,-122.19,32.72,-84.64]],ID["EPSG",6365]]</wkt>
+      <proj4>+proj=longlat +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +no_defs</proj4>
+      <srsid>28806</srsid>
+      <srid>6365</srid>
+      <authid>EPSG:6365</authid>
+      <description>Mexico ITRF2008</description>
+      <projectionacronym>longlat</projectionacronym>
+      <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+      <geographicflag>true</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial dimensions="2" miny="19.80197700000000083" crs="EPSG:6365" minz="0" maxx="-98.90535400000000266" maxz="0" minx="-99.00356499999999471" maxy="19.90660099999999844"/>
+  </extent>
+</qgis>
